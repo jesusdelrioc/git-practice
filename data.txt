@@ -1,0 +1,3 @@
+Nombre: jesús
+Edad:22
+Color favorito: azul
